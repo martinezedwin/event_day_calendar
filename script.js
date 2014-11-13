@@ -1,7 +1,4 @@
-// Facebook Coding Challenge
 // By: Sabba Petri
-// Date: October 2014
-// Thanks for the opportunity!
 
 (function () {
 
